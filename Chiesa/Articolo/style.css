@@ -1,7 +1,7 @@
 body {background-color: Black; margin:0; }
 
 body::-webkit-scrollbar {
-    display: none; 
+    display: none;
 }
 
 img{width: 100%}
